@@ -1,0 +1,23 @@
+body {
+  background-color: #f9fafb;
+}
+#cv-form {
+  background-color: rgb(103, 166, 221);
+  /* display: none; */
+  /* margin-top: 10px; */
+}
+#cv-template {
+  display: none;
+}
+.myimg {
+  /* border: 1px solid red; */
+  border-radius: 50%;
+  width: 200px;
+}
+
+.background {
+  background-color: #23212952;
+}
+#resume-template{
+    display:none;
+}
